@@ -1,0 +1,4 @@
+#Sat Jan 13 21:58:27 IST 2024
+base.0=D\:\\FLUTTER LATEST COURSE\\FLUTTER_PAID_COURSE_PROJECTS\\M-Box-Login-UI-main\\M-Box-Login-UI-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
