@@ -1,16 +1,21 @@
-# lgoin_ui
+Maintenance Box - Login UI
+A Flutter app featuring a sleek and modern login user interface for a maintenance management system. The UI is designed with a clean and intuitive layout, making it user-friendly.
 
-A new Flutter project.
 
-## Getting Started
+Screenshots:
 
-This project is a starting point for a Flutter application.
+![Screenshot_20240113_220120](https://github.com/Ajay-2022-Soft-Tech/M-Box-Login-UI-main/assets/113298640/7d4da4de-6cea-4a31-8f88-c3b8b48c60d7)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Key Features:
+Branding Elements: The app incorporates branding elements with a logo and a distinctive color scheme, providing a professional and visually appealing experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Responsive Design: The UI is responsive, ensuring a seamless experience across various screen sizes and orientations.
+
+Form Fields: Utilizes TextFormField widgets for email and password input, with a clean design and focus on user experience.
+
+Password Visibility Toggle: The password field includes a visibility toggle, allowing users to view or hide their entered password.
+
+Forget Password Link: A "Forget password?" link is provided for users to initiate password recovery.
+
+Stylish Buttons: Login button is styled with rounded corners and a contrasting color, enhancing visibility and interaction.
