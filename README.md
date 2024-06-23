@@ -4,10 +4,11 @@ A Flutter app featuring a sleek and modern login user interface for a maintenanc
 
 Screenshots:
 
-![)
 
-![](Screenshot_20240113_220120](https://github.com/Ajay-2022-Soft-Tech/M-Box-Login-UI-main/assets/113298640/7d4da4de-6cea-4a31-8f88-c3b8b48c60d7 | width=100)
 
+
+
+![Screenshot_20240113_220120](https://github.com/Ajay-2022-Soft-Tech/M-Box-Login-UI-main/assets/113298640/5d64e8b6-a124-410a-8320-9142fbda6d23 |width=200)
 
 Key Features:
 Branding Elements: The app incorporates branding elements with a logo and a distinctive color scheme, providing a professional and visually appealing experience.
