@@ -6,8 +6,7 @@ Screenshots:
 
 
 
-<img src="[Screenshot_20240113_220120](https://github.com/Ajay-2022-Soft-Tech/M-Box-Login-UI-main/assets/113298640/5d64e8b6-a124-410a-8320-9142fbda6d23g)" width="200" height="400" />
-
+<img src="[https://your-image-url.type](https://github.com/Ajay-2022-Soft-Tech/M-Box-Login-UI-main/assets/113298640/5d64e8b6-a124-410a-8320-9142fbda6d23g)" width="100" height="100">
 
 Key Features:
 Branding Elements: The app incorporates branding elements with a logo and a distinctive color scheme, providing a professional and visually appealing experience.
