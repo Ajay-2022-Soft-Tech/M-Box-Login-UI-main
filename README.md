@@ -4,7 +4,9 @@ A Flutter app featuring a sleek and modern login user interface for a maintenanc
 
 Screenshots:
 
-![Screenshot_20240113_220120](https://github.com/Ajay-2022-Soft-Tech/M-Box-Login-UI-main/assets/113298640/7d4da4de-6cea-4a31-8f88-c3b8b48c60d7)
+![)
+
+![](Screenshot_20240113_220120](https://github.com/Ajay-2022-Soft-Tech/M-Box-Login-UI-main/assets/113298640/7d4da4de-6cea-4a31-8f88-c3b8b48c60d7 | width=100)
 
 
 Key Features:
